@@ -1,0 +1,20 @@
+123 Main Street, Springfield, IL, 62701
+456 Elm Avenue, Los Angeles, CA, 90001
+789 Oak Road, New York, NY, 10001
+987 Pine Lane, Miami, FL, 33101
+654 Maple Street, Chicago, IL, 60601
+321 Cedar Drive, Houston, TX, 77001
+876 Birch Court, Denver, CO, 80201
+234 Walnut Place, Seattle, WA, 98101
+567 Redwood Lane, Boston, MA, 02101
+890 Spruce Road, Atlanta, GA, 30301
+432 Cherry Street, Phoenix, AZ, 85001
+765 Sycamore Avenue, Dallas, TX, 75201
+109 Pineapple Street, Philadelphia, PA, 19101
+876 Orange Boulevard, San Francisco, CA, 94101
+543 Lemon Lane, Washington, DC, 20001
+210 Grape Drive, Orlando, FL, 32801
+765 Mango Court, Austin, TX, 73301
+321 Banana Road, Nashville, TN, 37201
+987 Papaya Avenue, Portland, OR, 97201
+654 Kiwi Lane, Detroit, MI, 48201

@@ -1,0 +1,6 @@
+# exclude executable
+platsci
+
+# exclude .txt files EXCEPT in /examples/
+*.txt
+!/examples/*.txt
